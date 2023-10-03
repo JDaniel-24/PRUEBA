@@ -58,3 +58,13 @@ C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.csproj.GenerateResource.
 C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
 C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.exe
 C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.pdb
+C:\EJEMPLOS MOANSO\METODOS\bin\Debug\Semana 09.exe.config
+C:\EJEMPLOS MOANSO\METODOS\bin\Debug\Semana 09.exe
+C:\EJEMPLOS MOANSO\METODOS\bin\Debug\Semana 09.pdb
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana_09.Form1.resources
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana_09.Properties.Resources.resources
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana 09.csproj.GenerateResource.cache
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana 09.exe
+C:\EJEMPLOS MOANSO\METODOS\obj\Debug\Semana 09.pdb
