@@ -30,12 +30,12 @@ namespace Semana_09
             {
                 if (dato < r.info)
                 {
-                    r.der = inserta(r.izq, dato);
+                    r.izq = inserta(r.izq, dato);
                 }
                 else
                 {
                     if (dato > r.info)
-                        r.izq = inserta(r.der, dato);
+                        r.der = inserta(r.der, dato);
                 }
             }
             return r;
