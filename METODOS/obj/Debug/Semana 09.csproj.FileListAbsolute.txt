@@ -1,0 +1,60 @@
+F:\Semana 09\bin\Debug\Semana 09.exe.config
+F:\Semana 09\bin\Debug\Semana 09.exe
+F:\Semana 09\bin\Debug\Semana 09.pdb
+F:\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+F:\Semana 09\obj\Debug\Semana_09.Form1.resources
+F:\Semana 09\obj\Debug\Semana_09.Properties.Resources.resources
+F:\Semana 09\obj\Debug\Semana 09.csproj.GenerateResource.cache
+F:\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+F:\Semana 09\obj\Debug\Semana 09.exe
+F:\Semana 09\obj\Debug\Semana 09.pdb
+D:\Semana 09\bin\Debug\Semana 09.exe.config
+D:\Semana 09\bin\Debug\Semana 09.exe
+D:\Semana 09\bin\Debug\Semana 09.pdb
+D:\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+D:\Semana 09\obj\Debug\Semana_09.Form1.resources
+D:\Semana 09\obj\Debug\Semana_09.Properties.Resources.resources
+D:\Semana 09\obj\Debug\Semana 09.csproj.GenerateResource.cache
+D:\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+D:\Semana 09\obj\Debug\Semana 09.exe
+D:\Semana 09\obj\Debug\Semana 09.pdb
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\bin\Debug\Semana 09.exe.config
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\bin\Debug\Semana 09.exe
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\bin\Debug\Semana 09.pdb
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana_09.Form1.resources
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana_09.Properties.Resources.resources
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana 09.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana 09.exe
+C:\Users\User\OneDrive\Documentos\5TO CICLO\ESTRUCTURA DE DATOS\SEMANAS\PROGRAMAS DE CLASE\Semana 09\obj\Debug\Semana 09.pdb
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana_09.Form1.resources
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana_09.Properties.Resources.resources
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana 09.csproj.GenerateResource.cache
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana 09.exe
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\obj\Debug\Semana 09.pdb
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\bin\Debug\Semana 09.exe.config
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\bin\Debug\Semana 09.exe
+F:\UPN\5TO CICLO\ESTRUCTURA DE DATOS\Semana 09\bin\Debug\Semana 09.pdb
+C:\Semana 09\bin\Debug\Semana 09.exe.config
+C:\Semana 09\bin\Debug\Semana 09.exe
+C:\Semana 09\bin\Debug\Semana 09.pdb
+C:\Semana 09\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+C:\Semana 09\obj\Debug\Semana_09.Form1.resources
+C:\Semana 09\obj\Debug\Semana_09.Properties.Resources.resources
+C:\Semana 09\obj\Debug\Semana 09.csproj.GenerateResource.cache
+C:\Semana 09\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+C:\Semana 09\obj\Debug\Semana 09.exe
+C:\Semana 09\obj\Debug\Semana 09.pdb
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\bin\Debug\Semana 09.exe.config
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\bin\Debug\Semana 09.exe
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\bin\Debug\Semana 09.pdb
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.csproj.AssemblyReference.cache
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana_09.Form1.resources
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana_09.Properties.Resources.resources
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.csproj.GenerateResource.cache
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.csproj.CoreCompileInputs.cache
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.exe
+C:\EJEMPLOS MOANSO\AÑADIR- METODOS\obj\Debug\Semana 09.pdb
