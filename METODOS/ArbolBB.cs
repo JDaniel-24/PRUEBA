@@ -194,7 +194,27 @@ namespace Semana_09
         {
             return contarProfundidad(raiz);
         }
-
+        public Nodo buscar(int x, Nodo r)
+        {
+            if (r != null)
+            {
+                if (x == r.info)
+                    return r;
+                else
+                {
+                    if (x < r.info)
+                        return buscar(x, r.izq);
+                    else
+                        return buscar(x, r.der);
+                }
+            }
+            else
+                return null;
+        }
+        public Nodo buscar(int x)
+        {
+            return buscar(x, raiz);
+        }
         private int contarHojas(Nodo r)
         {
             int hojas = 0;
