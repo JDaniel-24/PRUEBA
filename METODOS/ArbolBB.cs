@@ -251,40 +251,5 @@ namespace Semana_09
             return Diferencia(raiz);
         }
 
-        private Nodo elimina(int x, Nodo r)
-        {
-            if (r != null)
-            {
-                if (x < r.info)
-                    r.izq = elimina(x, r.izq);
-                else
-                {
-                    if (x > r.info)
-                        r.der = elimina(x, r.der);
-                    else
-                    {
-                        if (r.izq == null)
-                            r = r.der;
-                        else
-                        {
-                            if (r.der == null)
-                                r = r.izq;
-                            else
-                            {
-                                r.info = BuscarMin(r.der);
-                                r.der = eliminarMin(r.der);
-                            }
-                        }
-                    }
-                }
-            }
-            return r;
-        }
-        public void elimina(int x)
-        {
-            raiz = elimina(x, raiz);
-        }
-
-
     }
 }
