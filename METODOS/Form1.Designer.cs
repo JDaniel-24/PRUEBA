@@ -64,11 +64,11 @@ namespace Semana_09
             // 
             // btn_menor
             // 
-            this.btn_menor.Location = new System.Drawing.Point(701, 173);
+            this.btn_menor.Location = new System.Drawing.Point(701, 144);
             this.btn_menor.Name = "btn_menor";
             this.btn_menor.Size = new System.Drawing.Size(94, 23);
             this.btn_menor.TabIndex = 1;
-            this.btn_menor.Text = "MENOR";
+            this.btn_menor.Text = "MAYOR";
             this.btn_menor.UseVisualStyleBackColor = true;
             this.btn_menor.Click += new System.EventHandler(this.btn_menor_Click);
             // 
@@ -161,11 +161,11 @@ namespace Semana_09
             // 
             // btn_mayor
             // 
-            this.btn_mayor.Location = new System.Drawing.Point(701, 144);
+            this.btn_mayor.Location = new System.Drawing.Point(701, 173);
             this.btn_mayor.Name = "btn_mayor";
             this.btn_mayor.Size = new System.Drawing.Size(94, 23);
             this.btn_mayor.TabIndex = 14;
-            this.btn_mayor.Text = "MAYOR";
+            this.btn_mayor.Text = "MENOR";
             this.btn_mayor.UseVisualStyleBackColor = true;
             this.btn_mayor.Click += new System.EventHandler(this.btn_mayor_Click);
             // 
