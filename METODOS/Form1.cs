@@ -93,18 +93,12 @@ namespace Semana_09
 
         }
 
-        private void btnEliminar_Click(object sender, EventArgs e)
+        private void btnBuscar_Click(object sender, EventArgs e)
         {
-            int x = int.Parse(Interaction.InputBox("Ingrese numero a eliminar "));
+            int x = int.Parse(Interaction.InputBox("Ingrese el numero a buscar: "));
             Nodo p = arbol.buscar(x);
             if (p != null)
-            {
-                arbol.elimina(x);
-                arbol.preOrden(lst_preOrden);
-                arbol.enOrden(lst_enOrden);
-                arbol.postOrden(lst_postOrden);
-                arbol.OrdenDescendenteen(lst_descendente);
-            }
+                MessageBox.Show("El valor se encuentra en el arbol.");
             else
                 MessageBox.Show("El valor no se encuentra en el arbol.");
         }
