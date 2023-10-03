@@ -38,7 +38,7 @@ namespace Semana_09
         private void btn_menor_Click(object sender, EventArgs e)
         {
             int men = arbol.BuscarMin();
-            MessageBox.Show("El mayor es: " + men);
+            MessageBox.Show("El menor es: " + men);
         }
         private void btn_contar_Click(object sender, EventArgs e)
         {
@@ -58,7 +58,7 @@ namespace Semana_09
         private void btn_mayor_Click(object sender, EventArgs e)
         {
             int mayor = arbol.BuscarMax();
-            MessageBox.Show("El menor es: " + mayor);
+            MessageBox.Show("El mayor es: " + mayor);
         }
 
         private void btn_salir_Click(object sender, EventArgs e)
