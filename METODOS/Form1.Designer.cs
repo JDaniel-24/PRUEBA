@@ -49,6 +49,7 @@ namespace Semana_09
             this.btn_diferenciaMenMay = new System.Windows.Forms.Button();
             this.lst_descendente = new System.Windows.Forms.ListBox();
             this.label6 = new System.Windows.Forms.Label();
+            this.btnEliminar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_insertar
@@ -236,11 +237,22 @@ namespace Semana_09
             this.label6.TabIndex = 22;
             this.label6.Text = "ORDEN DESCENDENTE";
             // 
+            // btnEliminar
+            // 
+            this.btnEliminar.Location = new System.Drawing.Point(701, 86);
+            this.btnEliminar.Name = "btnEliminar";
+            this.btnEliminar.Size = new System.Drawing.Size(94, 23);
+            this.btnEliminar.TabIndex = 23;
+            this.btnEliminar.Text = "ELIMINAR";
+            this.btnEliminar.UseVisualStyleBackColor = true;
+            this.btnEliminar.Click += new System.EventHandler(this.btnEliminar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(835, 442);
+            this.Controls.Add(this.btnEliminar);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.lst_descendente);
             this.Controls.Add(this.btn_diferenciaMenMay);
@@ -291,6 +303,7 @@ namespace Semana_09
         private System.Windows.Forms.Button btn_diferenciaMenMay;
         private System.Windows.Forms.ListBox lst_descendente;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button btnEliminar;
     }
 }
 
